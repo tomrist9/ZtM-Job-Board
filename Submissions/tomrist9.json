@@ -1,0 +1,16 @@
+{
+  "name": "Tomris Teymurlu",
+  "img": "images/profile.jpg",
+  "email": "tomrist9@gmail.com",
+  "links": {
+    "website": "https://tomrist9.github.io",
+    "linkedin": "https://www.linkedin.com/in/tomris-t-b4656016a",
+    "github": "https://github.com/tomrist9"
+  },
+  "jobTitle": "Java Backend Developer",
+  "location": {
+    "city": "Baku",
+    "state": "",
+    "country": "Azerbaijan"
+  }
+}
